@@ -57,7 +57,6 @@ export default function ReactElectionsPage() {
     //console.log(cidadeSelecionada);
     setCidadeFiltrada(cidadeSelecionada);
     var cidadeUnique = new Array(cidadeSelecionada[0]);
-    //console.log(cidadeUnique);
     setCidadeUnica(cidadeUnique);
   }
 
