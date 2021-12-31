@@ -1,5 +1,4 @@
 export default function ElectionCard({
-  //electionId = 'Id da eleição',
   nCidade = 'Nome da Cidade',
   totalEleitores = 'Total de Eleitores',
   abstencao = 'Abstenção',

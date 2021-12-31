@@ -91,7 +91,6 @@ export default function ReactElectionsPage() {
             }}
           >
             <Select
-              //selectedvalue={{ label: 'Asgard', value: 'Asgard' }}
               name="cidade"
               defaultValue={{ label: 'Asgard', value: 'Asgard' }}
               onChange={handleCityFilterChange}
